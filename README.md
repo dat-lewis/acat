@@ -5,7 +5,7 @@ acat
 
 annoying cat adds with a simple to use command line syntax a line to the end of your file so it won't crash your terminal like this:
 
-![before acat](http://dat-lab.at/linux/acat_before.png "before acat")
+![before acat](https://debian-blog.org/wp-content/uploads/Screen-Shot-2013-02-01-at-8.09.30-PM-1024x660.png "before acat")
 
 
 
